@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100">
+  <rect width="300" height="100" fill="lightgrey"/>
+  <text x="20" y="50" font-size="16">SVG Test</text>
+
+  <script type="text/javascript">
+    alert("Malicious SVG PoC");
+  </script>
+</svg>
